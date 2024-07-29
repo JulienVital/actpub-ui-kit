@@ -1,0 +1,19 @@
+:root.light {
+  --wf-color-grey-1: #242424;
+  --wf-color-grey-2: #333333;
+  --wf-color-grey-3: #434343;
+  --wf-color-grey-4: #535353;
+  --wf-color-grey-5: #757575;
+  --wf-color-grey-6: #A4A4A4;
+  --wf-color-grey-7: #FFFFFF;
+}
+
+:root.dark {
+  --wf-color-grey-1: #FFFFFF;
+  --wf-color-grey-2: #F0F0F0;
+  --wf-color-grey-3: #DFDFDF;
+  --wf-color-grey-4: #D2D2D2;
+  --wf-color-grey-5: #D2D2D2;
+  --wf-color-grey-6: #767676;
+  --wf-color-grey-7: #242424;
+}
